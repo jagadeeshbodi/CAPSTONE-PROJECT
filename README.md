@@ -1,4 +1,4 @@
-# CAPSTONE-PROJECT
+# CAPSTONE-PROJECT(HR_INDUSTRY)
 Problem Statement:
 
 Solving this problem will help you to gain a basic understanding of the HR industry and also how analytics and data science are applied in practice in this domain.
